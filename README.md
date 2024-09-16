@@ -18,10 +18,10 @@ Mail: zaccharieattias@gmail.com
 # 💻 Tech Stack:
 </div>
 
-Familiar with:
+Experience with:
 [![Python, C, C++, C#, Java, Unity, MongoDB, Jira, Git](https://skillicons.dev/icons?i=py,c,cpp,cs,java,unity,mongo,git)](https://skillicons.dev)
 
-Experience in:
+Familiar in:
 [![CSS, HTLM, JS, Node.js, React](https://skillicons.dev/icons?i=css,html,js,nodejs,react)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
