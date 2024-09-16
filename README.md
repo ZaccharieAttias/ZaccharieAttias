@@ -1,8 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/80007339/164998624-488b6e8d-b4c8-4d32-952e-e73834e0623f.gif)
 <h1 align="center">Hi, I'm Zaccharie Attias</h1>
 
-✨ Newly graduated software engineer and technology enthusiast!<br>🎓 Loving to work with a strong work ethic and unwavering commitment to excellence and reputed to be a fast and efficient learner, I am a diligent worker who pays great attention to detail and consistently delivers high-quality results.<br>:bowtie: I am constantly motivated to take on new challenges and dedicated to continuous learning and growth in software engineering.
-<br>⚡ Fun fact: Loving competitive video games 🎮.
+✨ Newly graduated software engineer and technology enthusiast!
+🎓 Loving to work with a strong work ethic and unwavering commitment to excellence and reputed to be a fast and efficient learner, I am a diligent worker who pays great attention to detail and consistently delivers high-quality results.
+:bowtie: I am constantly motivated to take on new challenges and dedicated to continuous learning and growth in software engineering.
+⚡ Fun fact: Loving competitive video games 🎮.
+Mail: zaccharieattias@gmail.com
 
 
 # 🌐 Socials:
@@ -10,8 +13,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zaccharieattias) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zaccharieattias@gmail.com?subject=Hello%20Zaccharie,%20From%20Github) &nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/zaccharie_attias) &nbsp;
-[![Discord](https://skillicons.dev/icons?i=discord)](https://www.instagram.com/zaccharie_attias)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/zaccharie_attias)
 
 # 💻 Tech Stack:
 </div>
